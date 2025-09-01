@@ -1,0 +1,23 @@
+[33mcommit 40e6de42ab4c4582a95977c314e057797cfda602[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Basilio <basilioherimiharisoa@gmail.com>
+Date:   Fri Aug 29 05:04:32 2025 +0300
+
+    006 Adding More State Customer
+
+[33mcommit bf9685bf8af9f5c24913798b1cf5dc31d97c2f56[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Basilio <basilioherimiharisoa@gmail.com>
+Date:   Wed Aug 27 06:02:40 2025 +0300
+
+    005 Working With Action Creators
+
+[33mcommit a6080da7b28136dfe4616ce056e54e77ac820bcb[m
+Author: Basilio <basilioherimiharisoa@gmail.com>
+Date:   Wed Aug 27 05:44:52 2025 +0300
+
+    004 Creating a Redux Store
+
+[33mcommit bfa92de358afc85cc491b11e6a7b37aed4bc8d01[m
+Author: Basilio <basilioherimiharisoa@gmail.com>
+Date:   Tue Aug 26 05:09:10 2025 +0300
+
+    003 Creating a Reducer Bank Account
